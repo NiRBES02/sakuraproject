@@ -1,11 +1,9 @@
-# Discord bot by NiRBES
-This bot is needed only for personal use, and it is not advisable to use it on extensive servers.
-# Install Ru
-Установка виртуального окружения:
-1. Создать папку с деррикторией бота и назвать ее botsakura.
-2. В командной строке перейти в деррикторию с ботом: cd C:\Users\HOME\Desktop\bot2
-3. Создаем виртуальное окружение в дерриктории бота: python -m venv venv
-4. Запускаем виртуальное акружение: venv\Scripts\activate
-5. Загружаем необходимые модули:
-	pip install discord.py
-	ну а дальше делайте все то что душа требует)
+# A custom bot for managing and entertaining on your Discord server!
+# Install discord bot
+All the necessary libraries are already installed in this repository and you don't need to install anything else.
+You will only need to install Python v 3.7.3 and higher (not tested on versions below).
+
+# Support
+Support is provided only for the latest and some versions of the bot.
+Modifications (if any) are not supported for this bot.
+Support, information, testing and discussion in Discord - https://discord.gg/rKaYSaY3vr
