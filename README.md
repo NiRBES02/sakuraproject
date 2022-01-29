@@ -1,2 +1,2 @@
 # Discord bot by NiRBES
-# This bot is a user bot and does not have a commercial nature.
+This bot is needed only for personal use, and it is not advisable to use it on extensive servers.
