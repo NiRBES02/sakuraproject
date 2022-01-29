@@ -1,0 +1,2 @@
+Extract from the archive venv.rar the vent folder to the main bot folder
+Example path C:\bot\
